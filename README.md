@@ -1,1 +1,1 @@
-"# automatizando-tarefas-frontend-com-gulp" 
+# Automatizando tarefas Front-End com o GULP 
